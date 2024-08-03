@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732557036537",
+    "firebase_url": "https://horizon-tales-aggiornato-default-rtdb.firebaseio.com",
+    "project_id": "horizon-tales-aggiornato",
+    "storage_bucket": "horizon-tales-aggiornato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732557036537:android:05f23c35a89534f6d5cb28",
+        "android_client_info": {
+          "package_name": "com.example.horizon_tales_versione_aggiornata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732557036537-ccp14h0qrbt96jjkdkn5r5i2obb96gum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDTPNS9nB8NpZUBdd6Wn9rBDPKCCHrqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732557036537-ccp14h0qrbt96jjkdkn5r5i2obb96gum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
