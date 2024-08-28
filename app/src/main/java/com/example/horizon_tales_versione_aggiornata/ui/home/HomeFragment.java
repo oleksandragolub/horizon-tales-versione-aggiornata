@@ -1,4 +1,4 @@
-package com.example.horizon_tales_versione_aggiornata.home;
+package com.example.horizon_tales_versione_aggiornata.ui.home;
 
 /*import android.content.Context;
 import android.os.Bundle;

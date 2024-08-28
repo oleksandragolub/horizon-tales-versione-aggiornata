@@ -1,4 +1,4 @@
-package com.example.horizon_tales_versione_aggiornata.profile;
+package com.example.horizon_tales_versione_aggiornata.ui.profile;
 
 import android.os.Parcel;
 

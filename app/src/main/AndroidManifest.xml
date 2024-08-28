@@ -28,7 +28,7 @@
         android:requestLegacyExternalStorage="true">
 
         <activity
-            android:name=".start_app.SplashActivity"
+            android:name=".ui.start_app.SplashActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/ThemeOverlay.Horizontalesversioneaggiornata.MediumContrast">
@@ -39,7 +39,7 @@
         </activity>
 
         <activity
-            android:name=".start_app.LoginActivity"
+            android:name=".ui.start_app.LoginActivity"
             android:exported="true"
             android:windowSoftInputMode="stateVisible|adjustResize"
             android:screenOrientation="portrait"
@@ -47,7 +47,7 @@
         </activity>
 
         <activity
-            android:name=".start_app.ForgotPasswordActivity"
+            android:name=".ui.start_app.ForgotPasswordActivity"
             android:exported="false"
             android:windowSoftInputMode="stateVisible|adjustResize"
             android:screenOrientation="portrait"
@@ -55,7 +55,7 @@
         </activity>
 
         <activity
-            android:name=".start_app.RegisterActivity"
+            android:name=".ui.start_app.RegisterActivity"
             android:exported="false"
             android:windowSoftInputMode="stateVisible|adjustResize"
             android:screenOrientation="portrait"
@@ -66,13 +66,13 @@
         </activity>
 
         <activity
-            android:name=".main.MainActivity"
+            android:name=".ui.main.MainActivity"
             android:exported="false"
             android:theme="@style/ThemeOverlay.Horizontalesversioneaggiornata.MediumContrast">
         </activity>
 
         <activity
-            android:name=".main.MainAdminActivity"
+            android:name=".ui.main.MainAdminActivity"
             android:exported="false"
             android:theme="@style/ThemeOverlay.Horizontalesversioneaggiornata.MediumContrast">
         </activity>

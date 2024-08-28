@@ -1,4 +1,4 @@
-package com.example.horizon_tales_versione_aggiornata.profile.other;
+package com.example.horizon_tales_versione_aggiornata.ui.profile.other;
 /*
 import android.os.Bundle;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.example.horizon_tales_versione_aggiornata.start_app;
+package com.example.horizon_tales_versione_aggiornata.ui.start_app;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.example.horizon_tales_versione_aggiornata.start_app;
+package com.example.horizon_tales_versione_aggiornata.ui.start_app;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -17,9 +17,9 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.horizon_tales_versione_aggiornata.R;
-import com.example.horizon_tales_versione_aggiornata.main.MainActivity;
-import com.example.horizon_tales_versione_aggiornata.main.MainAdminActivity;
-import com.example.horizon_tales_versione_aggiornata.profile.ReadWriteUserDetails;
+import com.example.horizon_tales_versione_aggiornata.ui.main.MainActivity;
+import com.example.horizon_tales_versione_aggiornata.ui.main.MainAdminActivity;
+import com.example.horizon_tales_versione_aggiornata.ui.profile.ReadWriteUserDetails;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;

@@ -1,4 +1,4 @@
-package com.example.horizon_tales_versione_aggiornata.profile.own;
+package com.example.horizon_tales_versione_aggiornata.ui.profile.own;
 
 import androidx.fragment.app.Fragment;
 

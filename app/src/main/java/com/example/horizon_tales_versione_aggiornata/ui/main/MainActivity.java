@@ -1,4 +1,4 @@
-package com.example.horizon_tales_versione_aggiornata.main;
+package com.example.horizon_tales_versione_aggiornata.ui.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
